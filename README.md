@@ -2,6 +2,22 @@
 
 Welcome to LightLogic, your premier destination for smart lighting solutions! Our innovative system offers a seamless integration of cutting-edge technology and elegant design to illuminate your spaces like never before. Whether you're looking to enhance the ambiance of your home, office, or commercial establishment, LightLogic has you covered.
 
+## Group Wabalo Members:
+
+1. Abogatal, Isaac Martel
+
+2. Beja, Gene Ivan
+
+3. Fuerzas, Ray Anthony
+
+4. Gamutin, Grid Jezreel
+
+5. Rodriguez, Niño Noel
+
+6. Salamat, Luke Akaiza
+
+7. Salubre, Meiko Jed
+
 ### Features:
 
 - **Intelligent Control**: With our intuitive mobile app, you can control your lights from anywhere, anytime. Adjust brightness, color, and scheduling effortlessly to suit your mood and activities.
